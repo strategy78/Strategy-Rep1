@@ -3,3 +3,10 @@ Shopping
 - Chicken
 - Beef
 - Juice
+- Bread
+- Rice
+
+Gifts
+-----
+- Watch
+- Ring
